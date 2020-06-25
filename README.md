@@ -1,4 +1,6 @@
 # Crawler-of-FirstTime
+CSDN地址：https://blog.csdn.net/weixin_39459398/article/details/106959688
+建议大家去看csdn，我写的详细一点。
 
 首先这个算是自己第一个爬虫的项目，做这个是为了帮同学完成作用。
 自己在github上或是csdn都找了好几份，因为自己之前也没接触过爬虫，
